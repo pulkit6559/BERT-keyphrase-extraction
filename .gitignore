@@ -5,3 +5,4 @@ bert_bilstm_extracted.txt
 *.bin
 *iml
 *xml
+__pycache__*
