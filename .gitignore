@@ -1,1 +1,4 @@
 experiments/*
+data/h1_7.txt
+bert_extracted.txt
+bert_bilstm_extracted.txt
